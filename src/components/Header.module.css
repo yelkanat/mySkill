@@ -1,0 +1,15 @@
+/* src/components/Header.module.css */
+
+.navButton {
+  font-weight: 500;
+  text-transform: none;
+}
+
+.logoutButton {
+  border-color: #0078d7;
+  color: #0078d7;
+}
+
+.logoutButton:hover {
+  background-color: rgba(0, 120, 215, 0.1);
+}
